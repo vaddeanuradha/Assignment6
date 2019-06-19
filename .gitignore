@@ -1,0 +1,22 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/ConvertStringToInt7/bin/Debug/netcoreapp2.1
+/ConvertStringToInt7/obj
+/FindStrStrPos8/bin/Debug/netcoreapp2.1
+/FindStrStrPos8/obj
+/IsRotated/bin/Debug/netcoreapp2.1
+/IsRotated/obj
+/LCSLenght5/bin/Debug/netcoreapp2.1
+/LCSLenght5/obj
+/LongestUniqSubString6/bin/Debug/netcoreapp2.1
+/LongestUniqSubString6/obj
+/LongPalindromeSubstring1/bin/Debug/netcoreapp2.1
+/LongPalindromeSubstring1/obj
+/NstringCommonSubString9/bin/Debug/netcoreapp2.1
+/NstringCommonSubString9/obj
+/RemoveDups2/bin/Debug/netcoreapp2.1
+/RemoveDups2/obj
+/RomanToInteger/bin/Debug/netcoreapp2.1
+/RomanToInteger/obj
