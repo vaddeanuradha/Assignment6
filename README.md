@@ -9,7 +9,7 @@ RomanToInteger4:   https://www.youtube.com/watch?v=syc04GsF5So
 
 LCSLength5:   https://www.youtube.com/watch?v=KMO8BwM1yFE
 
-LongestUniqueSubstring6:
+LongestUniqueSubstring6:  https://www.youtube.com/watch?v=LOwHloq8YsM&t=8s
 
 ConvertStringToInt7:  https://www.youtube.com/watch?v=V2tOziW6ikA
 
